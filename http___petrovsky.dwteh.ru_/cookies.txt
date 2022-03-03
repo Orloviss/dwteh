@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dwteh.ru	TRUE	/	FALSE	1999999999	__ddg1	B3ikTZ8QLaqFzrfKFDe1
+petrovsky.dwteh.ru	TRUE	/	FALSE	1999999999	PHPSESSID	qcfr8blhbsupvb2umgf1oplbd0
+petrovsky.dwteh.ru	TRUE	/	FALSE	1999999999	_csrf	dac6d8a4ac288785ebad52739b166468f58c8a276ed755f277862363f41a739aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22RBdkSTKrMhotUyHU22bd_M1vI5wtnWlZ%22%3B%7D
+
